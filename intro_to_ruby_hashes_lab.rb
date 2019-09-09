@@ -24,10 +24,10 @@ end
 
 #Create a method call read_from_hash that takes in two parameters. The first parameter is a hash, the second is a key. Used together, they will either produce a value on that hash corresponding to the key, or nil by default. Use these two parameters in conjunction to do just that.
 
-#def read_from_hash(hash, key)
+def read_from_hash(hash, key)
   # return the correct value using the hash and key parameters
- # read_from_hash
-#end
+  read_from_hash
+end
 
 def update_counting_hash(hash, key)
   # given a hash an a key as parameters, return an updated hash
