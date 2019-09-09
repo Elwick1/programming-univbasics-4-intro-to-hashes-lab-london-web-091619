@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  my_hash = { Link: legend of zelda, 
+  my_hash = { Link: "legend of zelda", No 
 end
 
 def pioneer
