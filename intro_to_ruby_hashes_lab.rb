@@ -17,10 +17,10 @@ def id_generator
 end
 #Create a method called my_hash_creator that takes in two parameters. In this method, create and return a
 #hash with one key/value pair, using the first parameter as the key, and the second parameter as the value.
-#def my_hash_creator(key, value)
+def my_hash_creator(key, value)
   # return a hash that includes the key and value parameters passed into this method
-#  my_hash_creator = {:name => "Grace Hopper"}
-#end
+ 
+end
 
 #Create a method call read_from_hash that takes in two parameters. The first parameter is a hash, the second is a key. Used together, they will either produce a value on that hash corresponding to the key, or nil by default. Use these two parameters in conjunction to do just that.
 
